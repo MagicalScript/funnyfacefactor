@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/aidl/debug"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/aidl/release"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/buildConfig/release"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="Libs/opencv/build/generated/source/r/release"/>
+	<classpathentry kind="src" path="Libs/opencv/src"/>
+	<classpathentry kind="src" path="New folder/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/FaceFactor.Libs/opencv/unspecified/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes-0985868ac56f5dfb4a7492de1f148084c8742eed.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes-c2c639e9781d8649a2be0f50ebe5de7c520f0864.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/classes-ed908b8a57361156692d5ecfe500aa0fb6a8fa4b.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5a0b1781bef765cf2ebbad7c4d441ee15c708190.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c78d1c47c0b524e8a7794a710e76c954cddfbb47.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="Libs/opencv/build/intermediates/bundles/debug/classes.jar"/>
+	<classpathentry kind="lib" path="Libs/opencv/build/intermediates/bundles/release/classes.jar"/>
+	<classpathentry kind="output" path="Libs/opencv/build/intermediates/classes/androidTest/debug"/>
+</classpath>

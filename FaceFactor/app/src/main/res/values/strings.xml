@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Face Factor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtfra1">Fragment 1</string>
+    <string name="txtgrag2">glasses fragment</string>
+    <string name="txtfrag2">glasses frag</string>
+    <string name="txtfrag3">Caps Fragement</string>
+    <string name="faces">Faces</string>
+    <string name="glasses">Glasses</string>
+    <string name="caps">Caps</string>
+    <string name="title_activity_recordvideo">recordvideo</string>
+    <string name="videoshow">Video Show Room</string>
+    <string name="start">Start</string>
+    <string name="Go">Go</string>
+
+</resources>
